@@ -44,6 +44,7 @@ Example #6. I have visited the following _states_/_cities_ with the **US**
   - San Francisco
   - Davis
   - Sacramento
+  
 The list goes on...
 
 
