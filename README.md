@@ -1,37 +1,49 @@
 ## Welcome to Xiaomeng Gao's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/x-mengao/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Let me try texting like **Read.ME** taught.
+Adding "**" or "__" in front of and behind a word or string will make the font **bold**.<br/>
+Example #1. My name is **Xiaomeng Gao**. I am from the **People's Republic of China**.
+Example #1. My name is __Xiaomeng Gao__. I am from the __People's Republic of China__.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Adding "*" or "_" in front of and behind a word or string will make the font *italic*.<br/>
+Example #2. My name is *Xiaomeng Gao*. I am from the *People's Republic of China*.
+Example #2. My name is _Xiaomeng Gao_. I am from the _People's Republic of China_.
 
-### Markdown
+Now, let me try some weblinks. To add a link withing the text, following format has to be obeyed. 
+first, [] includes the site name you want people to click on, which will turn blue in Preview mode. Immediately after it, put the link within a pair of brackets ().<br/>
+Example #3. My name is **Xiaomeng Gao**. Please refer to my [Google Scholar](https://scholar.google.com/citations?user=ev56Ug0AAAAJ&hl=en) and [LinkedIn Professional Profile](https://www.linkedin.com/in/xiaomenggao/) for more details.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Now, let me try **numbered** lists. 
+Example #4. I have tried the following syntaxes:
+1. make font bold
+2. make font italic
+3. add a weblink to external site
 
-```markdown
-Syntax highlighted code block
+I can also try listing **bullets** with a single "*" sign in front **(! nothing behind)** of the text
+Example #5. I have tried the following syntaxes:
+* make font bold
+* make font italic
+* add a weblink to external site
 
-# Header 1
-## Header 2
-### Header 3
+Alternatively, one can use _solid dots_ and _hollow dots_ to list items with layer. Such as
+Example #6. I have visited the following _states_/_cities_ with the **US**
+- Hawaii
+  - Honolulu
+  - Haleiwa
+  - Kaneohei
+  - Mililani
+  - Wa'ahiwa
+  - Hilo
+  - Kailua-Kona
+- Arizona
+  - Phoenix
+  - Goodyear
+- California
+  - Los Angeles
+  - San Diego
+  - San Francisco
+  - Davis
+  - Sacramento
+The list goes on...
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/x-mengao/hello-world/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
