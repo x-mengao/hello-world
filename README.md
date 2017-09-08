@@ -47,4 +47,5 @@ Example #6. I have visited the following _states_/_cities_ with the **US**
   
 The list goes on...
 
+Now, let's move on to the [Table of Contents](https://x-mengao.github.io/hello-world/table-of-contents) of the site.
 
