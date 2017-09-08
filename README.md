@@ -25,7 +25,7 @@ Example #5. I have tried the following syntaxes:
 * make font italic
 * add a weblink to external site
 
-Alternatively, one can use _solid dots_ and _hollow dots_ to list items with layer. Such as
+Alternatively, one can use _solid dots_ and _hollow dots_ to list items with layer. - works as layer one, another - starting at a tab away is layer two. Such as
 Example #6. I have visited the following _states_/_cities_ with the **US**
 - Hawaii
   - Honolulu
