@@ -22,6 +22,4 @@ Table of Content
 * Conferences
 * Patents
 
-### Patents
-
 ### Honors and Awards
