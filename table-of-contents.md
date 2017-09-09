@@ -1,7 +1,5 @@
 ## Table of Contents of my Personal Site
 
-Table of Content
-
 ## Remained on Coverpage
 ### Education
 * Ph.D., University of Hawaii at Manoa    2016
