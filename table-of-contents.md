@@ -2,15 +2,18 @@
 
 Table of Content
 
+## Remained on Coverpage
 ### Education
 * Ph.D., University of Hawaii at Manoa    2016
 * M.E., Xidian University                 2011
 * B.E., Xidian University                 2009
 
-### Academic Service
-
 ### Research Areas
 
+### Academic Service
+
+
+## Kept on Seperate Pages
 ### Research Experience
 
 ### Teaching
