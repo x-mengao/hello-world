@@ -1,5 +1,7 @@
 ## Welcome to Xiaomeng Gao's GitHub Pages
 
+Hello, my name is Xiaomeng Gao. This is my testing ground for building my personal online CV.
+
 Let me try texting like **Read.ME** taught.
 Adding "**" or "__" in front of and behind a word or string will make the font **bold**.<br/>
 Example #1. My name is **Xiaomeng Gao**. I am from the **People's Republic of China**.
